@@ -16,6 +16,13 @@ const projects = [
     link: "https://ai-resume-builder-cyberjev.vercel.app",
     emoji: "📄",
   },
+    {
+    title: "AI PDF Chat",
+    description: "Upload any PDF and have an intelligent conversation with it. Ask questions, get summaries, and extract insights instantly. Works with any document.",
+    tags: ["Next.js", "Groq AI", "unpdf", "Tailwind CSS"],
+    link: "https://ai-pdf-chat-cyberjev.vercel.app",
+    emoji: "💬",
+  },
 ];
 
 const skills = [
