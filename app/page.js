@@ -23,6 +23,13 @@ const projects = [
     link: "https://ai-pdf-chat-cyberjev.vercel.app",
     emoji: "💬",
   },
+      {
+    title: "AI Writing Assistant",
+    description: "Stop staring at a blank page. Pick your content type, set your tone, describe what you need — and get polished, professional content in seconds. Powered by Groq's lightning-fast LLM.",
+    tags: ["Next.js", "Groq AI", "TypeScript", "Tailwind CSS"],
+    link: "https://ai-writing-assistant-cyberjev.vercel.app",
+    emoji: "✍️",
+  },
 ];
 
 const skills = [
