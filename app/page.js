@@ -2,6 +2,13 @@
 import { useState } from "react";
 
 const projects = [
+        {
+    title: "AI Research Assistant",
+    description: "A production-grade AI research assistant that searches the web in real time, synthesizes information from multiple sources, stores findings in a vector database, and lets you have intelligent conversations with your research — all powered by RAG architecture.",
+    tags: ["Next.js", "Groq AI", "TypeScript", "Tailwind CSS", "Supabase", "Tavily", "React", "Rag"],
+    link: "https://ai-research-assistant-cyberjev.vercel.app",
+    emoji: "🔬",
+  },
   {
     title: "AI Career Coach",
     description: "A conversational AI coach that helps you nail interviews, craft compelling cover letters, and build a winning job search strategy. Powered by Groq's lightning-fast LLM.",
@@ -30,13 +37,7 @@ const projects = [
     link: "https://ai-writing-assistant-cyberjev.vercel.app",
     emoji: "✍️",
   },
-        {
-    title: "AI Research Assistant",
-    description: "A production-grade AI research assistant that searches the web in real time, synthesizes information from multiple sources, stores findings in a vector database, and lets you have intelligent conversations with your research — all powered by RAG architecture.",
-    tags: ["Next.js", "Groq AI", "TypeScript", "Tailwind CSS", "Supabase", "Tavily", "React", "Rag"],
-    link: "https://ai-research-assistant-cyberjev.vercel.app",
-    emoji: "🔬",
-  },
+
 ];
 
 const skills = [
